@@ -11,12 +11,10 @@ Benefits compared to other solutions
 - ...
 
 
-
-
-
-
 Research:
 * http://support.creative.com/kb/ShowArticle.aspx?sid=55438
+* http://danielkawakami.blogspot.de
+* http://www.hardwareheaven.com/community/forums/pax-drivers.174/
 
 
 ToDo:
