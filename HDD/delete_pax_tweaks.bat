@@ -1,0 +1,61 @@
+@echo off
+%systemdrive%
+CD C:\Windows\System32
+DEL /S 2.1SurroundSound.ini
+DEL /S 4.1SurroundSound.ini
+DEL /S 5.1SurroundSound.ini
+DEL /S 7.1SurroundSound.ini
+DEL /S AudioCreationMode.ini
+DEL /S Balance.ini
+DEL /S Bass.ini
+DEL /S Decoder.ini
+DEL /S Dolby.ini
+DEL /S DTS.ini
+DEL /S Encoder.ini
+DEL /S EntertainmentMode.ini
+DEL /S EQ.ini
+DEL /S Filter.ini
+DEL /S FlashPlayer.ini
+DEL /S GameMode.ini
+DEL /S Headphone.ini
+DEL /S Microphone.ini
+DEL /S Mid.ini
+DEL /S Optimize.ini
+DEL /S PlayBack.ini
+DEL /S ProLogic.ini
+DEL /S Recording.ini
+DEL /S Speaker.ini
+DEL /S Subwoofer.ini
+DEL /S Treble.ini
+DEL /S Tweaks.ini
+DEL /S WHATUH~1.INI
+CD C:\Windows\SysWOW64
+DEL /S 2.1SurroundSound.ini
+DEL /S 4.1SurroundSound.ini
+DEL /S 5.1SurroundSound.ini
+DEL /S 7.1SurroundSound.ini
+DEL /S AudioCreationMode.ini
+DEL /S Balance.ini
+DEL /S Bass.ini
+DEL /S Decoder.ini
+DEL /S Dolby.ini
+DEL /S DTS.ini
+DEL /S Encoder.ini
+DEL /S EntertainmentMode.ini
+DEL /S EQ.ini
+DEL /S Filter.ini
+DEL /S FlashPlayer.ini
+DEL /S GameMode.ini
+DEL /S Headphone.ini
+DEL /S Microphone.ini
+DEL /S Mid.ini
+DEL /S Optimize.ini
+DEL /S PlayBack.ini
+DEL /S ProLogic.ini
+DEL /S Recording.ini
+DEL /S Speaker.ini
+DEL /S Subwoofer.ini
+DEL /S Treble.ini
+DEL /S Tweaks.ini
+DEL /S WHATUH~1.INI
+pause
